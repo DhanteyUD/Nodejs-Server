@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:DhanteyUD/Nodejs-Server.git",
+  "author": "DhanteyUD <otseclinton60@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "whatwg-url": "^11.0.0"
+  }
+}
