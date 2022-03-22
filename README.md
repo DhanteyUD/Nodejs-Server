@@ -9,4 +9,7 @@ A node server that host HTML page using Node.js | No framework
 /night.html
 
 ```
+---
+
+> Note: This is just a dummy repo, it can be cloned and improved better...
 
